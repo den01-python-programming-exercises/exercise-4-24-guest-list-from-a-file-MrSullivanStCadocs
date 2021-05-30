@@ -1,3 +1,4 @@
+[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=4828880&assignment_repo_type=AssignmentRepo)
 # Exercise 4.24 Guest list from a file
 
 Implement a program that checks whether names entered by the user are on the guest list. The input should stop when a user enters an empty string. Some example output is below.
